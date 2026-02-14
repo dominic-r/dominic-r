@@ -10,7 +10,7 @@ These are some of my projects & tools.
 
 - 🗃️ [gitweb](https://github.com/dominic-r/gitweb): my cgit fork.
 - ❄️ [nix](https://github.com/dominic-r/nix): my Nix setup for macOS and servers.
-- ⌨️ [sdko-tool](https://github.com/dominic-r/sdko-tool): `st` _(soon)_, my CLI/TUI for development and operations workflows.
+- ⌨️ [sdko-tool](https://github.com/dominic-r/sdko-tool): `st`, my CLI/TUI for development and operations workflows.
 
 <details>
 <summary><strong>Why I keep everything in my monorepo (and use a branch-first workflow)</strong></summary>
