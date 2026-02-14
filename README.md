@@ -5,17 +5,17 @@ At [authentik](https://goauthentik.io), I work as a Technical Content Editor and
 
 I run my own homelab and personal infrastructure, and I like building useful software and writing docs that are clear, practical, and actually helpful.
 
-## Projects
-These repos are mirrored from my monorepo:
+## Projects & Tools
+These are some of my projects & tools.
 
 - 🗃️ [gitweb](https://github.com/dominic-r/gitweb): my cgit fork.
 - ❄️ [nix](https://github.com/dominic-r/nix): my Nix setup for macOS and servers.
 - ⌨️ [sdko-tool](https://github.com/dominic-r/sdko-tool): `st` _(soon)_, my CLI/TUI for development and operations workflows.
 
 <details>
-<summary><strong>Why the monorepo?</strong></summary>
+<summary><strong>Why I keep everything in my monorepo (and use a branch-first workflow)</strong></summary>
 
-Short version: control, simplicity, and safety.
+Short version: I keep my code in my monorepo for control, simplicity, and safety.
 - I don't trust Microsoft/GitHub as my only source of truth.
 - I don't like the direction GitHub keeps heading.
 - I still like the older git flow and a bit of nostalgia: branches, patches, and direct review without PR-heavy workflows.
