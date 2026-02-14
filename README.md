@@ -8,9 +8,9 @@ I run my own homelab and personal infrastructure, and I like building useful sof
 ## Projects
 These repos are mirrored from my monorepo:
 
-- [gitweb](https://github.com/dominic-r/gitweb): my cgit fork.
-- [nix](https://github.com/dominic-r/nix): my Nix setup for macOS and servers.
-- [sdko-tool](https://github.com/dominic-r/sdko-tool): `st` _(soon)_, my CLI/TUI for development and operations workflows.
+- 🗃️ [gitweb](https://github.com/dominic-r/gitweb): my cgit fork.
+- ❄️ [nix](https://github.com/dominic-r/nix): my Nix setup for macOS and servers.
+- ⌨️ [sdko-tool](https://github.com/dominic-r/sdko-tool): `st` _(soon)_, my CLI/TUI for development and operations workflows.
 
 <details>
 <summary><strong>Why the monorepo?</strong></summary>
