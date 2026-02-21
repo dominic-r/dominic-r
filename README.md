@@ -11,6 +11,7 @@ These are some of my projects & tools.
 - 🗃️ [gitweb](https://github.com/dominic-r/gitweb): my cgit fork.
 - ❄️ [nix](https://github.com/dominic-r/nix): my Nix setup for macOS and servers.
 - ⌨️ [sdko-tool](https://github.com/dominic-r/sdko-tool): `st`, my CLI/TUI for development and operations workflows.
+- 👨‍🏫 [cobagrades](https://github.com/dominic-r/cobagrades): CLI to fetch COBA (Berger-Levrault) student grades, then export to CSV and HTML.
 
 <details>
 <summary><strong>Why I keep everything in my monorepo (and use a branch-first workflow)</strong></summary>
