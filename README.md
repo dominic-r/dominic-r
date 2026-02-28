@@ -12,6 +12,7 @@ These are some of my projects & tools.
 - ❄️ [nix](https://github.com/dominic-r/nix): my Nix setup for macOS and servers.
 - ⌨️ [sdko-tool](https://github.com/dominic-r/sdko-tool): `st`, my CLI/TUI for development and operations workflows.
 - 👨‍🏫 [cobagrades](https://github.com/dominic-r/cobagrades): CLI to fetch COBA (Berger-Levrault) student grades, then export to CSV and HTML.
+- 🎧 [epub-audiobook](https://github.com/dominic-r/epub-audiobook): CLI to convert EPUB books into narrated audiobook MP4 files.
 
 <details>
 <summary><strong>Why I keep everything in my monorepo (and use a branch-first workflow)</strong></summary>
